@@ -17,10 +17,13 @@ Check out my portfolio and live projects at **[hailedev5-dotcom.github.io](https
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
 </p>
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend & Scripting:** Python
+- **Documentation & Formatting:** Markdown
 - **Focus:** Web Development & App Creation
 
 ---
