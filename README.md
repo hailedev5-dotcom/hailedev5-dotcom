@@ -57,5 +57,10 @@ Check out my portfolio and live projects at **[hailedev5-dotcom.github.io](https
 ![Hailemariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailedev5-dotcom&show_icons=true&theme=radial)
 
 ---
-
+<div class="social-icons">
+             <a href="https://t.me/fikeeditz10" style="justify-content:center;align-items:center;display:flex;margin:20px 10px" id="hi"> <img src="logo telegram.svg" alt="telegram logo" style="height:40px;width:40px;display:flex"></a> 
+             <a href="https://github.com/hailedev5-dotcom" style="display:flex;justify-content: center;align-items: center;margin:20px 10px" id="hi"><img src="github.png" alt="github icon" style="height:40px;width:40px"></a>
+             <a href=""mailto:hailedev5@gmail.com" style="display:flex;justify-content: center;align-items: center;margin:20px 10px"><img src="mail.png" style="height:40px;width:40px"/></a>
+             <p id="hio">hailedev5@gmail.com</p>
+               </div>
 📫 **Reach out:** Feel free to explore my repositories or check out my website!
