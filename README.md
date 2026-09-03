@@ -63,4 +63,6 @@ Check out my portfolio and live projects at **[hailedev5-dotcom.github.io](https
              <a href=""mailto:hailedev5@gmail.com" style="display:flex;justify-content: center;align-items: center;margin:20px 10px"><img src="mail.png" style="height:40px;width:40px"/></a>
              <p id="hio">hailedev5@gmail.com</p>
                </div>
+#my certificate
+ <img src="codeliber.png" id="codeliber" style="height:250px;width:150px"/>
 📫 **Reach out:** Feel free to explore my repositories or check out my website!
